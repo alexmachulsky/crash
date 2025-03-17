@@ -1,1 +1,1 @@
-# github-crash
+# github-course
